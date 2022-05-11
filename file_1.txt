@@ -1,0 +1,7 @@
+git --version : esce la versione di git
+cd : change directory
+git init : inizializza git
+touch <nome file> : crea un nuovo file 
+camut : leggere contenuto file
+ciao, questi sono i comandi per usare git ma non tutti
+
