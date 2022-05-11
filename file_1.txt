@@ -5,3 +5,7 @@ touch <nome file> : crea un nuovo file
 camut : leggere contenuto file
 ciao, questi sono i comandi per usare git ma non tutti
 porca paletta ladra
+
+ma io che ne so mi scusi
+
+no vabbe era peee
